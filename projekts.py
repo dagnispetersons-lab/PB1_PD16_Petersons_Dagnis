@@ -1,6 +1,4 @@
-print("Sveiks, main!")
+
+print("Sveiks, main + konflikts!")
+
 print("Feature zars aktīvs")
-
-
-
-
