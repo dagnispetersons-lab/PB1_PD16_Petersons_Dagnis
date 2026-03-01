@@ -1,6 +1,2 @@
-print("Sveiks, Git!")
+print("Sveiks, konflikts!")
 print("Feature zars aktīvs")
-
-
-
-
